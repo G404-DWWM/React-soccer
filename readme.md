@@ -45,7 +45,7 @@ Vous pouvez créer des composants supplémentaires si vous le souhaitez.
 
 ## Résultat attendu
 
-![Résultat attendu](./resultat-attendu.png)
+![Résultat attendu](resultat.png)
 
 # Sprint 2 : Récupérer les matchs de l'API
 
