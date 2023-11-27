@@ -16,9 +16,11 @@ preparer les données en exportant le tableau `data` dans un fichier `data.js` e
 
 ```js
 // data.js
-export const data = {
+const data = {
   // data from data.json
 };
+
+export default data;
 ```
 
 ```js
